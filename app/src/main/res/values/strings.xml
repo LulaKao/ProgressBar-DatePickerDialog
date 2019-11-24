@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProgressBar</string>
+    <string name="wait">Please wait...</string>
+    <string name="choose">= 請選擇日期 =</string>
+    <string name="clickMe">Click Me !</string>
+    <string name="setDate">您選擇的日期為：</string>
+</resources>
