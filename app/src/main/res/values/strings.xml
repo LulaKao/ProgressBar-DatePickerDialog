@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ProgressBar</string>
+    <string name="app_name">DatePicker</string>
     <string name="wait">Please wait...</string>
     <string name="choose">= 請選擇日期 =</string>
     <string name="clickMe">Click Me !</string>
